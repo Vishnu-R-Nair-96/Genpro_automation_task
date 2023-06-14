@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T03:01:50 IST" name="Default suite" finished-at="2023-06-15T03:02:12 IST" duration-ms="21962">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T03:01:50 IST" name="Default test" finished-at="2023-06-15T03:02:12 IST" duration-ms="21962">
+      <class name="genprotask.Testcases">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:01:50 IST" name="beforeTest" finished-at="2023-06-15T03:02:00 IST" duration-ms="10551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:00 IST" name="beforeMethod" finished-at="2023-06-15T03:02:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_emptyFields()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:00 IST" name="login_emptyFields" finished-at="2023-06-15T03:02:01 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_emptyFields -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:01 IST" name="beforeMethod" finished-at="2023-06-15T03:02:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_emptyPassword()[pri:1, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:01 IST" name="login_emptyPassword" finished-at="2023-06-15T03:02:01 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_emptyPassword -->
+        <test-method signature="login_emptyUsername()[pri:2, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:01 IST" name="login_emptyUsername" finished-at="2023-06-15T03:02:02 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_emptyUsername -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:01 IST" name="beforeMethod" finished-at="2023-06-15T03:02:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:02 IST" name="beforeMethod" finished-at="2023-06-15T03:02:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_invalidData()[pri:3, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:02 IST" name="login_invalidData" finished-at="2023-06-15T03:02:02 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_invalidData -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:02 IST" name="beforeMethod" finished-at="2023-06-15T03:02:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_validData()[pri:4, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:02 IST" name="login_validData" finished-at="2023-06-15T03:02:04 IST" duration-ms="2029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_validData -->
+        <test-method signature="products_sortLowtohigh()[pri:5, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:04 IST" name="products_sortLowtohigh" finished-at="2023-06-15T03:02:04 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- products_sortLowtohigh -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:04 IST" name="beforeMethod" finished-at="2023-06-15T03:02:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="products_addTocart()[pri:6, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:04 IST" name="products_addTocart" finished-at="2023-06-15T03:02:05 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- products_addTocart -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:04 IST" name="beforeMethod" finished-at="2023-06-15T03:02:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="cart_remove()[pri:7, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:05 IST" name="cart_remove" finished-at="2023-06-15T03:02:05 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart_remove -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:05 IST" name="beforeMethod" finished-at="2023-06-15T03:02:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:05 IST" name="beforeMethod" finished-at="2023-06-15T03:02:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_emptyFields()[pri:8, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:05 IST" name="checkout_emptyFields" finished-at="2023-06-15T03:02:05 IST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_emptyFields -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:05 IST" name="beforeMethod" finished-at="2023-06-15T03:02:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_onlyFirstname()[pri:9, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:05 IST" name="checkout_onlyFirstname" finished-at="2023-06-15T03:02:06 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_onlyFirstname -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:06 IST" name="beforeMethod" finished-at="2023-06-15T03:02:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_onlyLastname()[pri:10, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:06 IST" name="checkout_onlyLastname" finished-at="2023-06-15T03:02:06 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_onlyLastname -->
+        <test-method signature="checkout_onlyZip()[pri:11, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:06 IST" name="checkout_onlyZip" finished-at="2023-06-15T03:02:06 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_onlyZip -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:06 IST" name="beforeMethod" finished-at="2023-06-15T03:02:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:06 IST" name="beforeMethod" finished-at="2023-06-15T03:02:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_noFirstname()[pri:12, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:06 IST" name="checkout_noFirstname" finished-at="2023-06-15T03:02:07 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_noFirstname -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:07 IST" name="beforeMethod" finished-at="2023-06-15T03:02:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_noLastname()[pri:13, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:07 IST" name="checkout_noLastname" finished-at="2023-06-15T03:02:07 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_noLastname -->
+        <test-method signature="checkout_noZip()[pri:14, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:07 IST" name="checkout_noZip" finished-at="2023-06-15T03:02:08 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_noZip -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:07 IST" name="beforeMethod" finished-at="2023-06-15T03:02:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_validData()[pri:15, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="checkout_validData" finished-at="2023-06-15T03:02:08 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_validData -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="beforeMethod" finished-at="2023-06-15T03:02:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="beforeMethod" finished-at="2023-06-15T03:02:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_itemTotal()[pri:16, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="checkout_itemTotal" finished-at="2023-06-15T03:02:08 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_itemTotal -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="beforeMethod" finished-at="2023-06-15T03:02:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout_totalWithTax()[pri:17, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="checkout_totalWithTax" finished-at="2023-06-15T03:02:08 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_totalWithTax -->
+        <test-method signature="checkout_finishAndBackToHome()[pri:18, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="checkout_finishAndBackToHome" finished-at="2023-06-15T03:02:08 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_finishAndBackToHome -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="beforeMethod" finished-at="2023-06-15T03:02:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logout()[pri:19, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="logout" finished-at="2023-06-15T03:02:11 IST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:08 IST" name="beforeMethod" finished-at="2023-06-15T03:02:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:genprotask.Testcases@4f6ee6e4]" started-at="2023-06-15T03:02:11 IST" name="afterTest" finished-at="2023-06-15T03:02:12 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- genprotask.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
