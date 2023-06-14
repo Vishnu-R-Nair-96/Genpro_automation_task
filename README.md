@@ -1,2 +1,2 @@
 # Genpro_automation_task
-# Automation task using selenium webdriver using java
+# Automation task using selenium webdriver with java
